@@ -25,7 +25,7 @@ Pod Version 1.5.3
 
 ### Quick Start Guide 
 
-```git clone https://keran-marinov@bitbucket.org/keran-marinov/fruit-app.git```
+```git clone https://github.com/k-marinov/fruit-app.git```
 
 ```cd fruit-app```
 
